@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rohitchauraisa1997](https://github.com/rohitchauraisa1997)
 
-- 💬 Ask me about **Python/Golang backend development/GCP/Kubernetes**
+- 💬 Ask me about **Python/Golang backend development**
 
 - 📫 How to reach me **rohit.chaurasia997@gmail.com**
 
