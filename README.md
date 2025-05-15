@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Chaurasia</h1>
-<h3 align="center">Software Engineer with 4 years of Backend experience in Golang and Python.</h3>
+<h3 align="center">Software Engineer with 5.5 years of Backend experience in Golang and Python.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitchauraisa1997&label=Profile%20views&color=0e75b6&style=flat" alt="rohitchauraisa1997" /> </p>
 
